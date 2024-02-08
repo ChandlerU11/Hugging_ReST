@@ -8,6 +8,7 @@ This repo contains my implementation of the Reinforced Self-Training (ReST) for 
 ![ReST_pseudo](photos/rest_work.PNG)
 
 And a visualization of the workflow of ReST...
+
 ![ReST_viz](photos/rest.PNG)
 
 # The Implementation
