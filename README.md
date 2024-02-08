@@ -1,7 +1,7 @@
 # Hugging ReST
 This repo contains my implementation of the Reinforced Self-Training (ReST) for Language Modeling algorithm described in Google Deepmind's paper located at: https://arxiv.org/pdf/2308.08998.pdf. I would highly recommend giving it a read!
 
-**This repo is NOT an official implementation of their work**
+**This repo is NOT an official implementation of their work.**
 
 # ReST Psuedocode
 
