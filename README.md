@@ -8,3 +8,4 @@ The Google Colab and matching python script use the huggingface transformers lib
 
 # ReST Psuedocode
 
+![ReST_pseudo](photos/rest_work.PNG)
