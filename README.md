@@ -16,4 +16,9 @@ Both images credit to: https://arxiv.org/pdf/2308.08998.pdf.
 # The Implementation
 The Google Colab file and matching python script use the huggingface transformers library to fine-tune an LM (t5-small) using the reinforcement learning method, ReST. This training script contains a *dummy* reward model that rewards the generator being fine-tuned based on how many times it generates the word "hugs". The desired number of "hugs" generations is passed as input to the model during training. 
 
-## Output following reinforcement learning 
+## Model output prior to reinforcement learning
+![t5 pre](photos/pre_t5.PNG)
+
+## Model output after reinforcement learning
+![t5 post](photos/post_t5.PNG)
+
